@@ -1,0 +1,47 @@
+[
+	{
+		"title" : "Stars",
+		"description" : "A star is an astronomical object consisting of a luminous spheroid of plasma held together by its own gravity. The nearest star to Earth is the Sun. Many other stars are visible to the naked eye from Earth during the night, appearing as a multitude of fixed luminous points in the sky due to their immense distance from Earth.",
+		"image": "https://ics-client.s3.us-east-2.amazonaws.com/feed/dev/ics/clients/test/feedImages/stars.jpg",
+		"date" : "10-07-2020",
+		"author" : "Acme",
+		"authorPhotoUrl": "https://ics-client.s3.us-east-2.amazonaws.com/feed/dev/ics/clients/test/feedImages/sabbu.jpeg",
+		"logo": "https://ics-client.s3.us-east-2.amazonaws.com/feed/dev/ics/clients/test/feedImages/feed-logo.png"
+	},
+	{
+		"title" : "Pulsars",
+		"description" : "A pulsar (from pulse and -ar as in quasar) is a highly magnetized rotating neutron star that emits beams of electromagnetic radiation out of its magnetic poles. This radiation can be observed only when a beam of emission is pointing toward Earth (much like the way a lighthouse can be seen only when the light is pointed in the direction of an observer), and is responsible for the pulsed appearance of emission.",
+		"image": "https://ics-client.s3.us-east-2.amazonaws.com/feed/dev/ics/clients/test/feedImages/pulsars.jpeg",
+		"date" : "10-07-2020",
+		"author" : "Wiki",
+		"authorPhotoUrl": "https://ics-client.s3.us-east-2.amazonaws.com/feed/dev/ics/clients/test/feedImages/rao.jpeg",
+		"logo": "https://ics-client.s3.us-east-2.amazonaws.com/feed/dev/ics/clients/test/feedImages/feed-logo.png"
+	},
+	{
+		"title" : "Galaxy",
+		"description" : "A galaxy is a gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter. The word galaxy is derived from the Greek galaxias, literally \"milky\", a reference to the Milky Way. Galaxies range in size from dwarfs with just a few hundred million (108) stars to giants with one hundred trillion (1014) stars,[3] each orbiting its galaxy's center of mass.",
+		"image": "https://ics-client.s3.us-east-2.amazonaws.com/feed/dev/ics/clients/test/feedImages/galaxy.jpeg",
+		"date" : "09-07-2019",
+		"author" : "Acme",
+		"authorPhotoUrl": "https://ics-client.s3.us-east-2.amazonaws.com/feed/dev/ics/clients/test/feedImages/anil.jpeg",
+		"logo": "https://ics-client.s3.us-east-2.amazonaws.com/feed/dev/ics/clients/test/feedImages/feed-logo.png"
+	},
+	{
+		"title" : "Nebula",
+		"description" : "A nebula (Latin for 'cloud' or 'fog'; is an interstellar cloud of dust, hydrogen, helium and other ionized gases. Originally, the term was used to describe any diffused astronomical object, including galaxies beyond the Milky Way.",
+		"image": "https://ics-client.s3.us-east-2.amazonaws.com/feed/dev/ics/clients/test/feedImages/nebula.jpeg",
+		"date" : "09-07-2019",
+		"author" : "Wiki",
+		"authorPhotoUrl": "https://ics-client.s3.us-east-2.amazonaws.com/feed/dev/ics/clients/test/feedImages/pavan.jpeg",
+		"logo": "https://ics-client.s3.us-east-2.amazonaws.com/feed/dev/ics/clients/test/feedImages/feed-logo.png"
+	},
+	{
+		"title" : "Neutron Star",
+		"description" : "A neutron star is the collapsed core of a massive supergiant star, which had a total mass of between 10 and 25 solar masses, possibly more if the star was especially metal-rich. Neutron stars are the smallest and densest stellar objects, excluding black holes and hypothetical white holes, quark stars, and strange stars.",
+		"image": "https://ics-client.s3.us-east-2.amazonaws.com/feed/dev/ics/clients/test/feedImages/Neutron+Star.jpeg",
+		"date" : "09-07-2019",
+		"author" : "Acme inc.",
+		"authorPhotoUrl": "https://ics-client.s3.us-east-2.amazonaws.com/feed/dev/ics/clients/test/feedImages/pradyumn.jpeg",
+		"logo": "https://ics-client.s3.us-east-2.amazonaws.com/feed/dev/ics/clients/test/feedImages/feed-logo.png"
+	}
+]
